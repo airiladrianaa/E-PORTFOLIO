@@ -1,14 +1,14 @@
 ## 🗣️ PPG Industry Talk 
 
-**📅 Date:** 20 November 2025
+**📅 Date:** 20 November 2025  
 **🕙 Time:** 2:00 p.m - 5:00 p.m.  
-**📍 Venue:** Hyflex Classroom, Block N28A / Webex Meeting
-**🎤 Industry Talk:** Data Analytics, Infrastructure & SAP
+**📍 Venue:** Hyflex Classroom, Block N28A / Webex Meeting  
+**🎤 Industry Talk:** Data Analytics, Infrastructure & SAP  
 **👤 Speakers from PPG:**
-  * **Ai Ling Ooi** – *APAC IT Lead*
-  * **Lee Man Shin** – *Senior IT Manager, Data Analytics Lead*
-  * **Vijaykumar Dhandapani** – *Cloud Architecture Lead*
-  * **Patrick Thong** – *SAP Operations DTR Lead*
+   * **Ai Ling Ooi** – *APAC IT Lead*
+   * **Lee Man Shin** – *Senior IT Manager, Data Analytics Lead*
+   * **Vijaykumar Dhandapani** – *Cloud Architecture Lead*
+   * **Patrick Thong** – *SAP Operations DTR Lead*
 
 ### 🗒️ Summary
 I had the privilege of hearing from the leadership team at PPG, including the APAC IT Lead, Data Analytics Lead, Cloud Architecture Lead, and SAP Operations DTR Lead. As a first-year Computer Science student, it was a valuable opportunity to see how enterprise-level technology functions outside of a classroom setting. The talk delved into the complex world of Data Analytics, Infrastructure, and SAP. My biggest takeaway was seeing how global organizations bridge the gap between massive data streams and actionable business intelligence. It’s not just about the code; it’s about building a scalable infrastructure that can support thousands of users while maintaining security and efficiency. Understanding how these "As-Is" industrial landscapes are modernized into "To-Be" digital architectures has given me a much clearer roadmap for my own studies in systems development. 🚀
